@@ -5,8 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699c7097-c1e7-41c1-8daf-a82ac993ba5d" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Model0Initializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726506811.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726506913.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726506988.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507005.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507014.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507123.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507138.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507196.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507204.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507215.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507317.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507326.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507374.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507393.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507409.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/log/1726507424.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Model0.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Model0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Model0Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Model0Config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Model0Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Model0Utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248153.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248245.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248701.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248817.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248882.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726248924.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726250271.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726250909.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726251111.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726251121.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726251282.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/log/1726251345.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +55,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TreapGoGo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TreapGoGo/BlueSkyFirstSimulation.git&quot;,
+    &quot;accountId&quot;: &quot;25366d49-5a69-4df5-bad9-d1524c00355d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -34,17 +78,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Model0.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Model0.executor": "Run",
+    "Python.Model0Config.executor": "Run",
+    "Python.Model0Utils.executor": "Run",
+    "Python.temp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/BlueSkyProgram/pythonProject",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.Model0">
     <configuration name="Model0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BlueSkyFirstSimulation" />
       <option name="ENV_FILES" value="" />
@@ -67,16 +116,85 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Model0Config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BlueSkyFirstSimulation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Model0Config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model0Utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BlueSkyFirstSimulation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Model0Utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BlueSkyFirstSimulation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Model0" />
+        <item itemvalue="Python.Model0Config" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.Model0Utils" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -105,8 +223,27 @@
       <option name="project" value="LOCAL" />
       <updated>1726251459134</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1726252571853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726252571853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
